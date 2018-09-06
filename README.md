@@ -1,2 +1,0 @@
-# hackerrank
-hacker rank code
