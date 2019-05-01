@@ -8,7 +8,7 @@ import java.util.regex.*;
 
 public class ArrayManipulation {
 
-    // Complete the arrayManipulation function below.
+    // Complete the arrayManipulation function below.hi
     static long arrayManipulation(int n, int[][] queries) {
         long maxValue = 0L;
         long array[] = new long[n];
